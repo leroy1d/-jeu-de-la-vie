@@ -1,4 +1,3 @@
-
 # Jeu de la Vie - Implémentation Java
 
 Implémentation console du célèbre automate cellulaire "Jeu de la Vie" de John Conway.
@@ -11,6 +10,13 @@ Implémentation console du célèbre automate cellulaire "Jeu de la Vie" de John
 
 ## Comment exécuter
 
+1. Compiler le programme :
+```bash
+javac JeuDeLaVie.java
+
+2. Compiler le programme :
+```bash
+java JeuDeLaVie
 
 
 
