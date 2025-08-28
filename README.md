@@ -105,3 +105,16 @@ Génération 10
 ■ □ □ □ ■ 
 ■ □ □ □ ■ 
 □ ■ ■ ■ □ 
+
+
+Explication du code
+Initialisation : La grille est initialisée avec un état aléatoire (cellules vivantes ou mortes).
+
+Affichage : La méthode printGrid() affiche la grille actuelle en utilisant des caractères pour représenter les cellules vivantes (■) et mortes (□).
+
+Calcul des voisins : La méthode countLiveNeighbors() compte le nombre de cellules vivantes autour de chaque cellule.
+
+Règles du jeu : La méthode nextGeneration() applique les règles du Jeu de la Vie pour déterminer l'état de chaque cellule à la génération suivante.
+
+Simulation : Le programme principal simule 10 générations avec une pause d'une seconde entre chaque génération.
+
